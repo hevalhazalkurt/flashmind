@@ -26,3 +26,4 @@ MANIFEST
 
 .DS_Store
 .idea
+.env
