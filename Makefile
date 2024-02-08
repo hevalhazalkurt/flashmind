@@ -1,4 +1,4 @@
 
 
-run-local:
+local:
 	uvicorn  main:app --reload
